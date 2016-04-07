@@ -4,8 +4,8 @@ LENGTH <- NULL
 
 while (is.null(LENGTH)){
   cat("Minimum Length of password is 5 .\n")
-  LENGTH = readline("Enter the Length of Password to be generated (e.g. 5 or 6 or 8 or 15 etc): ")
-  LENGTH = as.integer(LENGTH)
+  LENGTH <- readline("Enter the Length of Password to be generated (e.g. 5 or 6 or 8 or 15 etc): ")
+  LENGTH <- as.integer(LENGTH)
 }
 
 generate.password <- function(LENGTH){
