@@ -8,4 +8,4 @@ Scripts first asks user to supply the __"LENGTH"__ of password (minimum should b
 
 Just simply source it from your R code/programs/prompt...
 
-__source("https://raw.githubusercontent.com/imanojkumar/Password_Genrator_in_R/master/password_generator.R")__
+__source("https://raw.githubusercontent.com/imanojkumar/Password_Generator_in_R/master/password_generator.R")__
