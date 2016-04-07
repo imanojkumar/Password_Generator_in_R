@@ -1,4 +1,4 @@
-# Password Genrator in R
+# Password Generator in R
 
 This script in R generates a password with consists of __"letters"__ , __"LETTERS"__ , __"Numbers Between 0 and 9"__ and __"Special Characters (e.g. &, ^ etc)"__.
 
